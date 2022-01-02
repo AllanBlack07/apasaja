@@ -37,4 +37,4 @@ jobs:
     - name: Menyambungkan Ke RDP.
       run: cmd /c mulai.bat
     - name: Sukses! Coba Kalian login ke RDP.
-      run: cmd /c looping.b
+      run: cmd /c looping.bat
